@@ -1,4 +1,4 @@
-## Hi there, I'm Carolina - but you can call me Lina 👋
+## Hi there, I'm Lina 👋
 
 - 🔭 I work on urban data analysis and research projects.
 - 🌱 I’m currently learning urban data science, with a focus on urban models.
