@@ -5,7 +5,7 @@
 - 💬 Ask me about girly literature and cinema ✌️ (and also about urban geography).
 
 ### Check out my website
-[https://carolinafaccin.com/english/](https://carolinafaccin.com/english/)
+[https://carolinafaccin.com/](https://carolinafaccin.com/)
 
 ### Languages and tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
