@@ -1,8 +1,8 @@
 ## Hi there, I'm Lina 👋
 
-- 🔭 I work on urban data analysis and research projects.
-- 🌱 I’m currently learning about the development of geospatial indexes.
-- 💬 Ask me about urban geography and urban economy.
+- 🔭 I work on urban data analysis and research projects
+- 🌱 I’m currently learning about the development of geospatial indexes
+- 💬 Ask me about urban geography and urban economy
 - 📫 Reach me: [carolinafaccin.com](https://carolinafaccin.com/)
 
 ### Languages and tools
