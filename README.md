@@ -3,7 +3,7 @@
 - 🔭 I work on urban data analysis and research projects
 - 🌱 I’m currently learning about the development of geospatial indexes
 - 💬 Ask me about urban geography and urban economy
-- 📫 Reach me: [carolinafaccin.github.io](https://carolinafaccin.github.io/)
+- ⚡ Check my website!: [carolinafaccin.github.io](https://carolinafaccin.github.io/)
 
 ### Languages and tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
